@@ -1,9 +1,8 @@
 {
 	"name": "turexpert/docx",
 	"description": "docx web service",
-	"version": "0.0.5",
+	"version": "1.0.5",
 	"type": "library",
-	"keywords": ["", ""],
 	"license": "MIT",
 	"require": {
 		"php": ">=5.3.2"
