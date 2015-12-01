@@ -1,0 +1,20 @@
+{
+	"name": "turexpert/docx",
+	"description": "docx web service",
+	"version": "0.0.5",
+	"type": "library",
+	"keywords": ["", ""],
+	"license": "MIT",
+	"require": {
+		"php": ">=5.3.2"
+	},
+	"autoload": {
+		"psr-4": { "phpdocx\\": "lib/" }
+	},
+	"repositories": [
+		{
+			"type": "git",
+			"url": "https://github.com/turexpert/docx"
+		}
+	]
+}
