@@ -1,7 +1,7 @@
 {
 	"name": "turexpert/docx",
 	"description": "docx web service",
-	"version": "1.0.0.8",
+	"version": "1.0.0.9",
 	"type": "library",
 	"keywords": ["doc"],
 	"license": "MIT",
