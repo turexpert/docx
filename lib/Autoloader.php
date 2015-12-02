@@ -1,6 +1,6 @@
 <?php
 
-namespace phpdocx;
+namespace docx;
 
 /**
  * Autoloader class
