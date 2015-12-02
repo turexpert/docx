@@ -50,4 +50,4 @@ class Autoloader
 	}
 }
 
-\phpdocx\Autoloader::register();
+\docx\Autoloader::register();
